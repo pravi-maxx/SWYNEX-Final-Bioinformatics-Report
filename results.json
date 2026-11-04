@@ -1,0 +1,26 @@
+{
+ "synthetic": true,
+ "n": 80,
+ "groups": [
+  "HighGC",
+  "LowGC"
+ ],
+ "r_gc_gc3": 0.979,
+ "r_len_gc": 0.268,
+ "HighGC": {
+  "n": 40,
+  "gc_mean": 0.584,
+  "gc_sd": 0.018,
+  "gc3_mean": 0.72,
+  "len_mean": 673.8
+ },
+ "LowGC": {
+  "n": 40,
+  "gc_mean": 0.435,
+  "gc_sd": 0.018,
+  "gc3_mean": 0.287,
+  "len_mean": 584.8
+ },
+ "diff_gc": 0.149,
+ "perm_p": 9.999000099990002e-05
+}
